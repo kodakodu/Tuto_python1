@@ -3,7 +3,7 @@ import sys
 
 #Importing the components we need
 from PySide6.QtWidgets import QApplication
-from button_holder import ButtonHolder
+from components.button_holder import ButtonHolder
 
 
 
