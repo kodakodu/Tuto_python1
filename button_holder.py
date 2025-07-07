@@ -8,4 +8,5 @@ class ButtonHolder(QMainWindow):
         button = QPushButton("Press Me!")
         button.setFixedSize(100,60)
 
+
         self.setCentralWidget(button)
